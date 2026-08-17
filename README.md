@@ -58,3 +58,9 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - **Libraries**: scikit-learn, TensorFlow, NLTK, spaCy
 - **Models**: Pre-trained NLP models, Custom classifiers
 - **Text Processing**: BeautifulSoup, Selenium (for web scraping)
+
+### DevOps & Deployment
+- **Version Control**: Git / GitHub
+- **Containerization**: Docker
+- **CI/CD**: GitHub Actions
+- **Hosting**: Heroku / Vercel / AWS
