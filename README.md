@@ -15,3 +15,17 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+
+## ✨ Features
+
+### Core Features
+- **URL Analysis**: Paste any article URL and get instant credibility analysis
+- **Content Analysis**: Direct text input for article content verification
+- **Credibility Scoring**: Multi-factor scoring system (0-100)
+- **Fake News Classification**: Categorizes content as:
+  - ✅ Reliable
+  - ⚠️ Partially False
+  - ❌ False Information
+  - 🎭 Satire/Parody
+  - 📢 Propaganda
+  - 🤔 Misleading
