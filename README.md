@@ -79,3 +79,11 @@ Before you begin, ensure you have the following installed:
 - **MongoDB** - [Download](https://www.mongodb.com/) or use MongoDB Atlas (Cloud)
 - **Git** - [Download](https://git-scm.com/)
 - **Docker** (optional) - [Download](https://www.docker.com/)
+
+## 🚀 Installation
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/Aaronkuriyan/Factora.git
+cd Factora
