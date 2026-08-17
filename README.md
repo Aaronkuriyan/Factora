@@ -47,3 +47,9 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - **State Management**: Redux / Context API
 - **HTTP Client**: Axios
 - **Charts**: Chart.js or Recharts
+
+### Backend
+- **Framework**: Node.js with Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+- **API Documentation**: Swagger/OpenAPI
