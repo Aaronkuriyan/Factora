@@ -64,3 +64,8 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - **Containerization**: Docker
 - **CI/CD**: GitHub Actions
 - **Hosting**: Heroku / Vercel / AWS
+
+
+## 📁 Project Structure
+
+Factora/ │ ├── frontend/ # React Frontend Application │ ├── public/ │ │ └── index.html │ ├── src/ │ │ ├── components/ # React Components │ │ ├── pages/ # Page Components │ │ ├── services/ # API Services │ │ ├── styles/ # CSS Files │ │ ├── App.jsx │ │ └── index.jsx │ ├── package.json │ └── .env.example │ ├── backend/ # Node.js/Express Backend │ ├── routes/ # API Routes │ ├── controllers/ # Route Controllers │ ├── models/ # Database Models │ ├── middleware/ # Custom Middleware │ ├── config/ # Configuration Files │ ├── server.js # Main Server File │ ├── package.json │ └── .env.example │ ├── ml_models/ # Machine Learning Models │ ├── fake_news_classifier.py # Classifier Model │ ├── train.py # Training Script │ ├── models/ # Trained Models Storage │ ├── datasets/ # Training Datasets │ └── requirements.txt # Python Dependencies │ ├── docs/ # Documentation │ ├── API.md # API Documentation │ ├── SETUP.md # Setup Guide │ └── ARCHITECTURE.md # Architecture Overview │ ├── tests/ # Test Files │ ├── frontend/ │ └── backend/ │ ├── .github/ │ └── workflows/ # GitHub Actions CI/CD │ ├── .gitignore ├── .env.example ├── docker-compose.yml ├── LICENSE └── README.md
