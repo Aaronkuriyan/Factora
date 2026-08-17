@@ -38,3 +38,12 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - **User Dashboard**: Save and track analyzed articles
 - **History & Analytics**: View past analyses and trends
 - **Dark Mode Support**: User-friendly interface with theme options
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **Framework**: React.js
+- **Styling**: Tailwind CSS
+- **State Management**: Redux / Context API
+- **HTTP Client**: Axios
+- **Charts**: Chart.js or Recharts
