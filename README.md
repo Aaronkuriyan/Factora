@@ -29,3 +29,12 @@ A comprehensive web application designed to identify, analyze, and classify pote
   - 🎭 Satire/Parody
   - 📢 Propaganda
   - 🤔 Misleading
+
+### Advanced Features
+- **Source Verification**: Cross-reference with known reliable news sources
+- **Claim Fact-Checking**: Validate specific claims made in articles
+- **Sentiment Analysis**: Detect emotional manipulation
+- **Language Pattern Detection**: Identify suspicious linguistic patterns
+- **User Dashboard**: Save and track analyzed articles
+- **History & Analytics**: View past analyses and trends
+- **Dark Mode Support**: User-friendly interface with theme options
