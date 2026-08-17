@@ -53,3 +53,8 @@ A comprehensive web application designed to identify, analyze, and classify pote
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **API Documentation**: Swagger/OpenAPI
+
+### Machine Learning & NLP
+- **Libraries**: scikit-learn, TensorFlow, NLTK, spaCy
+- **Models**: Pre-trained NLP models, Custom classifiers
+- **Text Processing**: BeautifulSoup, Selenium (for web scraping)
